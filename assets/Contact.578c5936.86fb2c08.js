@@ -1,0 +1,1 @@
+import{j as a,g as s,a as n,_ as t}from"./index.586c95ca.js";const r={},c={class:"Contact"},o=a("h1",null," Contact Us ",-1),e=[o];function d(i,l){return n(),t("div",c,e)}var f=s(r,[["render",d]]);export{f as default};

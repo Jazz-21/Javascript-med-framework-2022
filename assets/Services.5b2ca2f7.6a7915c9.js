@@ -1,0 +1,1 @@
+import{j as r,g as s,a as e,_ as a}from"./index.586c95ca.js";const c={},n={class:"Services"},t=r("h1",null," Browse Our other services ",-1),i=[t];function o(u,d){return e(),a("div",n,i)}var v=s(c,[["render",o]]);export{v as default};
