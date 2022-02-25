@@ -1,1 +1,0 @@
-import{_ as e}from"./index.a9fa5498.js";import{o as s,c as o,b as r}from"./vendor.97c7eddd.js";const c={},t={class:"Services"},a=r("h1",null," Browse Our other services ",-1),n=[a];function _(d,i){return s(),o("div",t,n)}var h=e(c,[["render",_]]);export{h as default};
